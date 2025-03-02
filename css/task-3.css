@@ -16,7 +16,7 @@
   border-radius: 4px;
   width: 360px;
   height: 40px;
-  border-style: none;
+  outline: none;
 }
 .title {
   font-weight: 600;
