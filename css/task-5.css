@@ -1,13 +1,11 @@
 .widget {
   display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
-  gap: 10px;
   border-radius: 8px;
   padding: 100px 88px;
-  width: 345px;
-  height: 280px;
+  width: 390px;
   background: #fff;
   margin: auto;
 }
@@ -29,7 +27,6 @@
   border-radius: 8px;
   padding: 8px 16px;
   width: 148px;
-  height: 40px;
   background: #4e75ff;
   border-style: none;
   font-weight: 500;
